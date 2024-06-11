@@ -1,4 +1,4 @@
-# command-line-mini-grep
+# command-line-mini-grep from rust book
 
 ## To use
 ```rust
